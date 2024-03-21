@@ -56,6 +56,20 @@
     font-size: 35px;
 }
 
+/* .main{
+
+} */
+
+.footer-logo {
+    width: 150px;
+    height: 124px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: url(./pics/logo.jpeg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 .themes-menu{
     width: 500px;
     height: 85vh;
