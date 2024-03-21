@@ -1,0 +1,14 @@
+@media (max-width: 1000px) {
+    .header-container {
+        height: auto;
+        padding: 10px;
+    }
+
+    .header-menu{
+        width: 150px;
+    }
+
+    .header-title{
+        font-size: 30px;
+    }
+}

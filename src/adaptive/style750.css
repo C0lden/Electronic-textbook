@@ -1,0 +1,9 @@
+@media (max-width: 750px) {
+    .header-menu{
+        width: 200px;
+    }
+
+    .header-title{
+        font-size: 25px;
+    }
+}
